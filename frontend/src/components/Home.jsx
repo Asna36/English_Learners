@@ -40,7 +40,7 @@ const Home = () => {
             <main className="dashboard-main-content">
                 
                 <header className="dashboard-header">
-                    <h1 className="header-title">My Classes</h1>
+                    <h1 className="header-title">My Class</h1>
                     <div className="header-actions">
                         <button className="icon-button"><SearchIcon /></button>
                         <button className="icon-button"><BellIcon /></button>
